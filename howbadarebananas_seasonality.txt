@@ -53,7 +53,7 @@ September: aubergine, beetroot, broccoli, broccoli (calabrese), brussels sprouts
 cabbage, carrots, cauliflower, celeriac, celery, chicory,
 Chinese celery, chopsuey greens, cucumber, endine, Florence fennel,
 French beans, globe artichoke, Japanese mustard spinach (komatsuma),
-kale, kohlrabi, leeks, lettuce, marrow, mushrooms, okra,
+kale, kohlrabi, leek, lettuce, marrow, mushrooms, okra,
 onion, parsnip, peas, peppers, potatoes, pumpkins, radicchio,
 runner beans, salad onions, shallots, soya bean, spinach, spring
 greens, squash, swede, sweetcorn, tomatoes, turnips,
@@ -62,7 +62,7 @@ October: beetroot, broccoli, broccoli (calabrese), brussels sprouts,
 cabbage, carrots, cauliflower, celeriac, celery, chicory, Chinese celery,
 chopsuey greens, claytonia, corn salad, courgette, endine, Florence
 fennel, French beans, Japanese mustard spinach (komatsuma), Jerusalem artichoke,
-kale, kohlrabi, leeks, lettuce, marrow, mushrooms,
+kale, kohlrabi, leek, lettuce, marrow, mushrooms,
 okra, onion, parsnip, potatoes, pumpkins, radicchio, runner beans,
 salad onions, shallots, soya bean, spinach, spring greens, squash,
 swede, sweetcorn, tomatoes, turnips, watercress,
@@ -77,7 +77,7 @@ turnips,
 December: beetroot, broccoli, brussels sprouts, cabbage, carrots,
 cauliflower, celeriac, celery, chicory, corn salad, Japanese mustard
 spinach (komatsuma), Japanese turnip, Jerusalem artichoke, kale,
-leeks, onion, parsnip, potatoes, spinach, spring greens, squash,
+leek, onion, parsnip, potatoes, spinach, spring greens, squash,
 swede, turnips,
 
 All year round: apples, pears, oranges, citrus fruit, bananas,
